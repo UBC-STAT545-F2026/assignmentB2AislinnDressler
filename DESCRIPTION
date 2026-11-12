@@ -1,11 +1,10 @@
 Package: assignmentB2AislinnDressler
-Title: What the Package Does (One Line, Title Case)
+Title: Summarizing Missing Data in a Dataset
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Aislinn", "Dressler", , "adressler@student.ubc.ca", role = c("aut", "cre"))
+Description: This package counts the amount of missing data in each column of a dataset and outputs a tibble with the amount of missing data in each column group.
+License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
