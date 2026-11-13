@@ -1,6 +1,6 @@
 Package: assignmentB2AislinnDressler
 Title: Summarizing Missing Data in a Dataset
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Aislinn", "Dressler", , "adressler@student.ubc.ca", role = c("aut", "cre"))
 Description: This package counts the amount of missing data in each column of a dataset and outputs a tibble with the amount of missing data in each column group.
